@@ -1005,3 +1005,12 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* KakaoTalk */
+.button.button-kakaotalk {
+  color: #000000;
+  background-color: #ffe812;
+}
+.button.button-kakaotalk:hover,
+.button.button-kakaotalk:focus {
+  filter: brightness(90%);
+}
