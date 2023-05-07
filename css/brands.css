@@ -1019,6 +1019,7 @@ button:hover,
 .button.button-toss {
   color: #0064ff;
   background-color: #ffffff;
+  border: 1px solid #202632;
 }
 .button.button-toss:hover,
 .button.button-toss:focus {

@@ -1,55 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   version="1.1"
-   id="svg2"
-   width="6666.6665"
-   height="3333.3333"
-   viewBox="0 0 6666.6665 3333.3333"
-   sodipodi:docname="Toss_Symbol_Secondary_Blue.ai"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs6">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath16">
-      <path
-         d="M 0,2500 H 5000 V 0 H 0 Z"
-         id="path14" />
-    </clipPath>
-  </defs>
-  <sodipodi:namedview
-     id="namedview4"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
-  <g
-     id="g8"
-     inkscape:groupmode="layer"
-     inkscape:label="Toss_Symbol_Secondary_Blue"
-     transform="matrix(1.3333333,0,0,-1.3333333,0,3333.3333)">
-    <g
-       id="g10">
-      <g
-         id="g12"
-         clip-path="url(#clipPath16)">
-        <g
-           id="g18"
-           transform="translate(2587.7461,1659.5786)">
-          <path
-             d="m 0,0 66.763,313.56 c 3,15.753 -10.502,30.006 -26.255,26.255 -96.769,-17.253 -197.288,-47.259 -297.057,-90.017 -448.586,-189.787 -720.138,-561.858 -606.117,-831.16 86.267,-201.788 364.57,-288.055 687.882,-237.795 l -66.762,-313.56 c -3.001,-15.753 10.502,-30.006 26.254,-26.255 96.769,17.253 197.288,47.259 297.058,90.017 448.586,189.786 719.388,561.858 605.366,831.909 C 601.615,-36.007 323.312,50.26 0,0"
-             style="fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path20" />
-        </g>
-      </g>
-    </g>
-  </g>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2500 2500" width="2500" height="2500">
+	<title>Toss_Symbol_Secondary_Blue-ai</title>
+	<style>
+		.s0 { fill: #0064ff } 
+	</style>
+	<g id="Layer 1">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="s0" d="m1337.7 840.4l66.8-313.5c3-15.8-10.5-30-26.2-26.3-96.8 17.3-197.3 47.3-297.1 90-448.6 189.8-720.1 561.9-606.1 831.2 86.2 201.8 364.6 288 687.9 237.8l-66.8 313.5c-3 15.8 10.5 30 26.3 26.3 96.7-17.3 197.2-47.3 297-90 448.6-189.8 719.4-561.9 605.4-831.9-85.5-201.1-363.8-287.3-687.2-237.1z"/>
+		</g>
+	</g>
 </svg>
