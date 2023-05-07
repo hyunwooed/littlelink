@@ -1014,3 +1014,13 @@ button:hover,
 .button.button-kakaotalk:focus {
   filter: brightness(90%);
 }
+
+/* Toss */
+.button.button-toss {
+  color: #0064ff;
+  background-color: #ffffff;
+}
+.button.button-toss:hover,
+.button.button-toss:focus {
+  filter: brightness(90%);
+}
