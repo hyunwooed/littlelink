@@ -1177,9 +1177,20 @@ button:hover,
 .button.button-toss {
   color: #0064ff;
   background-color: #ffffff;
-  border: 1px solid #202632;
+  border: 1px solid #212121;
 }
 .button.button-toss:hover,
 .button.button-toss:focus {
+  filter: brightness(90%);
+}
+
+/* ORCID */
+.button.button-orcid {
+  color: #a6ce39;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+}
+.button.button-orcid:hover,
+.button.button-orcid:focus {
   filter: brightness(90%);
 }
