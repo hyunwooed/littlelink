@@ -1175,7 +1175,7 @@ button:hover,
 
 /* Toss */
 .button.button-toss {
-  color: #0064ff;
+  color: #000000;
   background-color: #ffffff;
   border: 1px solid #212121;
 }
@@ -1184,13 +1184,13 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* ORCID */
-.button.button-orcid {
-  color: #a6ce39;
-  background-color: #ffffff;
-  border: 1px solid #000000;
+/* ORCID iD */
+.button.button-orcid-id {
+  color: #000000;
+  background-color: #FFFFFF;
+  border: 1px solid #212121;
 }
-.button.button-orcid:hover,
-.button.button-orcid:focus {
+.button.button-orcid-id:hover,
+.button.button-orcid-id:focus {
   filter: brightness(90%);
 }
