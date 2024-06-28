@@ -1088,17 +1088,6 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* Toss */
-.button.button-toss {
-  color: #000000;
-  background-color: #ffffff;
-  border: 1px solid #212121;
-}
-.button.button-toss:hover,
-.button.button-toss:focus {
-  filter: brightness(90%);
-}
-
 /* ORCID iD */
 .button.button-orcid-id {
   color: #000000;
